@@ -1,3 +1,6 @@
+# App Explanation
+This is a demo app to use MUI Components. This is a static app just created for practise.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
